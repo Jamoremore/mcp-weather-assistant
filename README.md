@@ -26,8 +26,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Jamoremore/mcp-weather-assistant.git
+cd mcp-weather-assistant
 ```
 
 ### 2. 安装依赖
